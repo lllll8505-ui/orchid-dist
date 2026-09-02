@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Updates</title>
-        <description>Update feed</description>
-        <language>en</language>
+        <title>CC Color</title>
         <item>
             <title>0.1.1</title>
             <pubDate>Wed, 02 Sep 2026 11:18:35 +0900</pubDate>
@@ -12,9 +10,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/lllll8505-ui/orchid-dist/releases/download/updates/CCColor-0.1.1.zip" length="35774727" type="application/octet-stream" sparkle:edSignature="ViNoAyvpzv/MAKKietyww/udFyuqxq7VCmyahzNhM+CPh6HgD+2GJNG+6C6rl52SwpFy5Rwdwk2uNPnwaFsJDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/lllll8505-ui/orchid-dist/releases/download/updates/CC%20Color202609021118-202609021048.delta" sparkle:deltaFrom="202609021048" length="26814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BkHvXL49+DzVfiC2qp53QVP1pVPLa3LQ1XXGFfaXR5ci2zLO7q9oG44A6PiT1XnwIoNlXS6vbzS+3ODIm6xTAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.0</title>
