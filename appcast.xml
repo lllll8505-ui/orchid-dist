@@ -3,6 +3,14 @@
     <channel>
         <title>CC Color</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Fri, 11 Sep 2026 18:54:27 +0900</pubDate>
+            <sparkle:version>202609111853</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lllll8505-ui/orchid-dist/releases/download/updates/CCColor-0.2.1.zip" length="101504644" type="application/octet-stream" sparkle:edSignature="0ELh6u+pnD3glwYMZ/F3UX4NrgFXzs0i19/YbaMSdcxRXa2i1PpqFVHro56u6HqFFjvWKIGQY8/mVlz7tv6zAA=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Fri, 11 Sep 2026 17:29:15 +0900</pubDate>
             <sparkle:version>202609111728</sparkle:version>
